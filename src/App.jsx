@@ -15,3 +15,4 @@ const App = () => {
         <Hero />
         <Taste />
         <Quality />
+        <Parallax />
