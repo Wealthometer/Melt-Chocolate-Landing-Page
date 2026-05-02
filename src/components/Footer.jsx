@@ -79,3 +79,4 @@ const Footer = () => {
           <a href="" className='hover:underline'>Terms & Conditions</a>
         </div>
       </div>
+    </section>
