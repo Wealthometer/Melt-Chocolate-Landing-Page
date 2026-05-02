@@ -26,3 +26,4 @@ const Header = () => {
                 <a href="">Flavors</a>
               </li>
               <li>
+                <a href="">Our Story</a>
