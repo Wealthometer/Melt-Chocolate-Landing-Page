@@ -36,3 +36,4 @@ const Header = () => {
               </li>
             </ul>
           </nav>
+        <a href="" className='flex items-center justify-center bg-white rounded-xl text-nowrap px-4 py-3 font-medium gap-3'>Explore Flavors 
