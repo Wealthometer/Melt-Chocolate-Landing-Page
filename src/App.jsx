@@ -6,3 +6,4 @@ import Quality from './sections/Quality'
 import Parallax from './sections/Parallax'
 import Footer from './components/Footer'
 import SmoothScroll from './SmoothScroll'
+
