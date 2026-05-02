@@ -9,3 +9,4 @@ import SmoothScroll from './SmoothScroll'
 
 const App = () => {
   return (
+    <>
