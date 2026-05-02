@@ -11,3 +11,4 @@ const Footer = () => {
 
   useGSAP(() => {
     gsap.from(footerRef.current, {
+        y: 40,
