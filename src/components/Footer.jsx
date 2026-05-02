@@ -19,3 +19,4 @@ const Footer = () => {
           trigger: footerRef.current,
           start: "top 85%",
           toggleActions: "play none none reverse",
+        },
