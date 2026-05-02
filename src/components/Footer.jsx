@@ -37,3 +37,4 @@ const Footer = () => {
             <li><a href="" className='hover:underline'>Gifting</a></li>
           </ul>
         </div>
+        <div className='col-span-2'>
