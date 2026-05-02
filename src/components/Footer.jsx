@@ -27,3 +27,4 @@ const Footer = () => {
   return (
     <section ref={footerRef} className='inner-container bg-orange text-white mt-20'>
       <div className='pt-24 grid grid-cols-12'>
+        <div className='text-5xl font-semibold col-span-8'>Crafted to melt,<br/> not rush.</div>
