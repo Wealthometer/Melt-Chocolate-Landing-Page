@@ -42,3 +42,4 @@ const Footer = () => {
           <ul className='flex flex-col gap-3'>
             <li><a href="" className='hover:underline'>Taste Journey</a></li>
             <li><a href="" className='hover:underline'>Texture & Melt</a></li>
+            <li><a href="" className='hover:underline'>Ingredients</a></li>
