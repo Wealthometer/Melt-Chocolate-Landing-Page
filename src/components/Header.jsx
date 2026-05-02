@@ -21,3 +21,4 @@ const Header = () => {
         <div className="flex items-center justify-between bg-white rounded-xl w-full px-4 py-3">
           <img src={Logo} alt="Melt Chocolate" className='max-w-36' />
           <nav>
+              <li>
