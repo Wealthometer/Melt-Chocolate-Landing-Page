@@ -14,3 +14,4 @@ const App = () => {
         <Header />
         <Hero />
         <Taste />
+        <Quality />
