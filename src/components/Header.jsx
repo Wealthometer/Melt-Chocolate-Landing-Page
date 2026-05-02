@@ -29,3 +29,4 @@ const Header = () => {
                 <a href="">Our Story</a>
               </li>
               <li>
+                <a href="">How it's Made</a>
