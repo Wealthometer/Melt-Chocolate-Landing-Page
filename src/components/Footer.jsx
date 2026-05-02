@@ -30,3 +30,4 @@ const Footer = () => {
         <div className='text-5xl font-semibold col-span-8'>Crafted to melt,<br/> not rush.</div>
         <div className='col-span-2'>
           <h3 className='text-xl font-bold mb-4'>Explore</h3>
+          <ul className='flex flex-col gap-3'>
