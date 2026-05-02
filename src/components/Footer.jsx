@@ -47,3 +47,4 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+      <div className='flex justify-between items-end mt-40'>
