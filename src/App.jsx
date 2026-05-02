@@ -17,3 +17,4 @@ const App = () => {
         <Quality />
         <Parallax />
         <Footer />
+      </SmoothScroll>
