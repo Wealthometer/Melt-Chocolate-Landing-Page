@@ -34,3 +34,4 @@ const Header = () => {
               <li>
                 <a href="" className='flex items-center justify-between gap-2'>Gifting <img src={Gift} alt="Gift" className='max-w-11 pb-2' /></a>
               </li>
+            </ul>
