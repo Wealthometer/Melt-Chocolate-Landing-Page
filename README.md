@@ -4,3 +4,4 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 ## 🚀 Key Features
 **Interactive "Taste" Section:** Progressive image swapping and "hand-drawn" SVG arrows triggered by scroll.
 
+**Stacking Quality Cards:** Using React Array Refs and GSAP Stagger to create a physical stacking effect.
