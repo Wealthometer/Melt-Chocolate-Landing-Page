@@ -6,3 +6,4 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 
 **Stacking Quality Cards:** Using React Array Refs and GSAP Stagger to create a physical stacking effect.
 
+
