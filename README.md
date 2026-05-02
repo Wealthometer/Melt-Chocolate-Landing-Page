@@ -13,3 +13,4 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 **Fully Responsive:** Optimized for all screen sizes using Tailwind CSS.
 
 ## 🛠️ Tech Stack
+- **Framework:** React.js  
