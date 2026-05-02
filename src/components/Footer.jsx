@@ -16,3 +16,4 @@ const Footer = () => {
         duration: 1,
         ease: "power3.out",
         scrollTrigger: {
+          trigger: footerRef.current,
