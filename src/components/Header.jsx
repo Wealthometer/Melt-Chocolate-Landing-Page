@@ -6,3 +6,4 @@ import gsap from 'gsap'
 
 const Header = () => {
 
+  useGSAP(() => {
