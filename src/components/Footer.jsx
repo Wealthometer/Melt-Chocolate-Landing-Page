@@ -82,3 +82,4 @@ const Footer = () => {
     </section>
   )
 }
+
