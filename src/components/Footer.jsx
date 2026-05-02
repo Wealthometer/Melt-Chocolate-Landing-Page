@@ -40,3 +40,4 @@ const Footer = () => {
         <div className='col-span-2'>
           <h3 className='text-xl font-bold mb-4'>Experience</h3>
           <ul className='flex flex-col gap-3'>
+            <li><a href="" className='hover:underline'>Taste Journey</a></li>
