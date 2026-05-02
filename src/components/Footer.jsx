@@ -65,3 +65,4 @@ const Footer = () => {
             </svg>
           </a>
         </div>
+        <a href='' className='flex items-center gap-2 underline'>
