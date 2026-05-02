@@ -30,3 +30,4 @@ const Header = () => {
               </li>
               <li>
                 <a href="">How it's Made</a>
+              </li>
