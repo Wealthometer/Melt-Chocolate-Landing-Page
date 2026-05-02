@@ -18,3 +18,4 @@ const App = () => {
         <Parallax />
         <Footer />
       </SmoothScroll>
+    </>
