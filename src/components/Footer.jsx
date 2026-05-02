@@ -49,3 +49,4 @@ const Footer = () => {
       </div>
       <div className='flex justify-between items-end mt-40'>
         <div className='flex gap-3'>
+          <a href='' className='bg-white w-9 h-9 rounded-full flex justify-center items-center'>
