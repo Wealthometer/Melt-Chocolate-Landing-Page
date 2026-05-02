@@ -8,3 +8,4 @@ import Footer from './components/Footer'
 import SmoothScroll from './SmoothScroll'
 
 const App = () => {
+  return (
