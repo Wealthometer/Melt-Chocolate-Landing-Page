@@ -12,3 +12,4 @@ const Footer = () => {
   useGSAP(() => {
     gsap.from(footerRef.current, {
         y: 40,
+        opacity: 0,
