@@ -27,3 +27,4 @@ const Header = () => {
               </li>
               <li>
                 <a href="">Our Story</a>
+              </li>
