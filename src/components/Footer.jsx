@@ -38,3 +38,4 @@ const Footer = () => {
           </ul>
         </div>
         <div className='col-span-2'>
+          <h3 className='text-xl font-bold mb-4'>Experience</h3>
