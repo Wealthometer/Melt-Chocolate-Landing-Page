@@ -9,3 +9,4 @@ const Header = () => {
   useGSAP(() => {
 
     gsap.from('header', {
+      y: '-25%',
