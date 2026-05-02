@@ -12,3 +12,4 @@
   "dependencies": {
     "@fontsource/caveat": "^5.2.8",
     "@fontsource/inter": "^5.2.8",
+    "@gsap/react": "^2.1.2",
