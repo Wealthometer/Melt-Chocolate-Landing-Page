@@ -17,3 +17,4 @@ const Header = () => {
 
   return (
     <>
+      <header className='sticky top-0 z-20 flex items-stretch justify-between gap-5 max-w-7xl m-auto p-6'>
