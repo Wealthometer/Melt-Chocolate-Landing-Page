@@ -8,3 +8,4 @@ const Header = () => {
 
   useGSAP(() => {
 
+    gsap.from('header', {
