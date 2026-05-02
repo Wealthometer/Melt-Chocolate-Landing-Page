@@ -11,3 +11,4 @@ const Header = () => {
     gsap.from('header', {
       y: '-25%',
       opacity: 0
+    })
