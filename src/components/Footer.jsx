@@ -10,3 +10,4 @@ const Footer = () => {
   const footerRef = useRef(null);
 
   useGSAP(() => {
+    gsap.from(footerRef.current, {
