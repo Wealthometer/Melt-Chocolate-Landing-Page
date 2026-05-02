@@ -9,3 +9,4 @@ const Footer = () => {
 
   const footerRef = useRef(null);
 
+  useGSAP(() => {
