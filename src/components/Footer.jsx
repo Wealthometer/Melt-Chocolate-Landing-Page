@@ -48,3 +48,4 @@ const Footer = () => {
         </div>
       </div>
       <div className='flex justify-between items-end mt-40'>
+        <div className='flex gap-3'>
