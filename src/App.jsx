@@ -16,3 +16,4 @@ const App = () => {
         <Taste />
         <Quality />
         <Parallax />
+        <Footer />
