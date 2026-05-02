@@ -72,3 +72,4 @@ const Footer = () => {
           <span className='font-bold text-xl'>Subscribe Newsletter</span>
         </a>
       </div>
+      <div className='text-sm flex justify-between items-center py-6 border-t border-[#ffffff50] mt-12'>
