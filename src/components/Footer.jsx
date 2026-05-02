@@ -71,3 +71,4 @@ const Footer = () => {
           </svg>
           <span className='font-bold text-xl'>Subscribe Newsletter</span>
         </a>
+      </div>
