@@ -21,3 +21,4 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
