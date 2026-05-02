@@ -29,3 +29,4 @@ const Footer = () => {
       <div className='pt-24 grid grid-cols-12'>
         <div className='text-5xl font-semibold col-span-8'>Crafted to melt,<br/> not rush.</div>
         <div className='col-span-2'>
+          <h3 className='text-xl font-bold mb-4'>Explore</h3>
