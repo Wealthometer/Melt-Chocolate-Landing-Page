@@ -15,3 +15,4 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 ## 🛠️ Tech Stack
 - **Framework:** React.js  
 - **Styling:** Tailwind CSS  
+- **Animation:** GSAP (GreenSock Animation Platform)  
