@@ -36,3 +36,4 @@ const Footer = () => {
             <li><a href="" className='hover:underline'>How it's Made</a></li>
             <li><a href="" className='hover:underline'>Gifting</a></li>
           </ul>
+        </div>
