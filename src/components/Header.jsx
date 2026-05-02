@@ -12,3 +12,4 @@ const Header = () => {
       y: '-25%',
       opacity: 0
     })
+
