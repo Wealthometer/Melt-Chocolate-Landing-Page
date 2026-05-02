@@ -8,4 +8,5 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 
 **SplitText Animations:** Letter-by-letter writing effects for headlines and captions.
 
+**Parallax Backgrounds:** Smooth depth effects using CSS background-attachment.
 
