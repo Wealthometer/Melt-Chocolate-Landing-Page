@@ -24,3 +24,4 @@ const Footer = () => {
     );
   }, []);
 
+  return (
