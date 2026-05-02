@@ -10,3 +10,4 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 
 **Parallax Backgrounds:** Smooth depth effects using CSS background-attachment.
 
+**Fully Responsive:** Optimized for all screen sizes using Tailwind CSS.
