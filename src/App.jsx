@@ -12,3 +12,4 @@ const App = () => {
     <>
       <SmoothScroll>
         <Header />
+        <Hero />
