@@ -8,3 +8,4 @@ gsap.registerPlugin(ScrollTrigger);
 const Footer = () => {
 
   const footerRef = useRef(null);
+
