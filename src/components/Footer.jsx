@@ -75,3 +75,4 @@ const Footer = () => {
       <div className='text-sm flex justify-between items-center py-6 border-t border-[#ffffff50] mt-12'>
         <div>Design by <span className='underline'>Rupz Web</span></div>
         <div className='flex gap-5'>
+          <a href="" className='hover:underline'>Privacy Policy</a>
