@@ -21,3 +21,4 @@ const Footer = () => {
           toggleActions: "play none none reverse",
         },
       }
+    );
