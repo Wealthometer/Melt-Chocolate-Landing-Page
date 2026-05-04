@@ -54,3 +54,4 @@ const HeroChocolates = ({ activeFlavor }) => {
       duration: 0.4,
       delay: 1,
       ease: "power3.out",
+    });
