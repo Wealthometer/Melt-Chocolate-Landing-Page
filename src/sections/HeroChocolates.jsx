@@ -20,3 +20,4 @@ const HeroChocolates = ({ activeFlavor }) => {
   useGSAP(() => { 
 
     gsap.from('.caremel-choco', {
+      y: "60%",
