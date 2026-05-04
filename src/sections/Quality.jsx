@@ -71,3 +71,4 @@ const Quality = () => {
             className="card bg-yellow text-white rounded-3xl max-w-115 w-full p-10 min-h-112 flex flex-col justify-between absolute top-16 right-0"
           >
             <div>
+              <div className="text-[7.5vw] font-semibold leading-40">30+</div>
