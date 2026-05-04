@@ -53,3 +53,4 @@ const Quality = () => {
           </div>
         </div>
 
+        {/* RIGHT CARDS */}
