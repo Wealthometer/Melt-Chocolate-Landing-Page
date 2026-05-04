@@ -45,3 +45,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
     </>
   )
 }
+
