@@ -76,3 +76,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     });
     
   })
+
