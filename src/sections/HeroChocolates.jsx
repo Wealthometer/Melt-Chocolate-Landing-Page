@@ -85,3 +85,4 @@ const HeroChocolates = ({ activeFlavor }) => {
       </div>
       <div className="flex justify-center items-start gap-6">
         <div>
+        </div>
