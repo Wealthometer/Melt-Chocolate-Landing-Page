@@ -18,3 +18,4 @@ const Quality = () => {
       });
     });
 
+    const tl = gsap.timeline({
