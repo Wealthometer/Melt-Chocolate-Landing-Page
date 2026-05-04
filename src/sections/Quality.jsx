@@ -10,3 +10,4 @@ const Quality = () => {
   const cardsRef = useRef([]);
 
   useGSAP(() => {
+    // set initial state individually
