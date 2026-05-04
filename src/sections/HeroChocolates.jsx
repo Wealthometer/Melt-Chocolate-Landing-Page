@@ -18,3 +18,4 @@ gsap.registerPlugin(SplitText);
 const HeroChocolates = ({ activeFlavor }) => {
 
   useGSAP(() => { 
+
