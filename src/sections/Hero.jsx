@@ -14,3 +14,4 @@ const Hero = () => {
 
   useGSAP(() => {
     const pairs = [
+      {
