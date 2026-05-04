@@ -83,3 +83,4 @@ const Quality = () => {
           >
             <div>
               <div className="text-[7.5vw] font-semibold leading-40">100%</div>
+            </div>
