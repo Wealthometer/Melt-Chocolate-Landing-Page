@@ -88,4 +88,5 @@ const Quality = () => {
             <div>No shortcuts. No compromises.</div>
           </div>
         </div>
+      </div>
     </section>
