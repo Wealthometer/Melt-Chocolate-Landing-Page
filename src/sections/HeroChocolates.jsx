@@ -98,3 +98,4 @@ const HeroChocolates = ({ activeFlavor }) => {
           <img src={Stamp} alt="Stamp" className='stamp absolute z-10 max-w-37.5 -top-10 -left-20 transform rotate-32' />
         </div>
       </div>
+  )
