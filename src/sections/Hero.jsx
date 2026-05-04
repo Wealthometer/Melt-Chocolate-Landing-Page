@@ -59,3 +59,4 @@ const Hero = () => {
           scale: 0.6,
           ease: "none",
         },
+        0
