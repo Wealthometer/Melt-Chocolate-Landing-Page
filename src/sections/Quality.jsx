@@ -66,3 +66,4 @@ const Quality = () => {
             <div>Refined until the flavour feels just right.</div>
           </div>
 
+          <div
