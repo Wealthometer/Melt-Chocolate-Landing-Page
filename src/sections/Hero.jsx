@@ -12,3 +12,4 @@ const Hero = () => {
 
   const [activeFlavor, setActiveFlavor] = useState(null);
 
+  useGSAP(() => {
