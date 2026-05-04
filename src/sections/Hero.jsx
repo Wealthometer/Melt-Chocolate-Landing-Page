@@ -37,3 +37,4 @@ const Hero = () => {
         trigger: ".choco-section",
         start: "top top",
         end: "74% center",
+        scrub: true,
