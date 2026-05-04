@@ -10,3 +10,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
           <p className="mt-6 text-white text-xl text-center leading-6 opacity-0 
                 translate-y-6 group-hover:opacity-100 
                 group-hover:translate-y-0
+                transition-all duration-500 ease-out">
