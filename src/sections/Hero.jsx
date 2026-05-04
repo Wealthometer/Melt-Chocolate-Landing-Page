@@ -69,3 +69,4 @@ const Hero = () => {
       <HeroChocolates activeFlavor={activeFlavor} />
       <FlavorCards setActiveFlavor={setActiveFlavor} />
     </section>
+  )
