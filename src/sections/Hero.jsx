@@ -32,3 +32,4 @@ const Hero = () => {
       },
     ];
 
+    const tl = gsap.timeline({
