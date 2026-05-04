@@ -40,3 +40,4 @@ const Hero = () => {
         scrub: true,
         invalidateOnRefresh: true,
       },
+    });
