@@ -55,3 +55,4 @@ const Quality = () => {
 
         {/* RIGHT CARDS */}
         <div className="col-span-5 relative h-130">
+          <div
