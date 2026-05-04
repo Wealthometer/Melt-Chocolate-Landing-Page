@@ -90,4 +90,5 @@ const Quality = () => {
         </div>
       </div>
     </section>
+  );
 };
