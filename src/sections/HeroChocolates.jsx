@@ -58,3 +58,4 @@ const HeroChocolates = ({ activeFlavor }) => {
 
     // Heading
     SplitText.create("h1", {
+      type: "chars",
