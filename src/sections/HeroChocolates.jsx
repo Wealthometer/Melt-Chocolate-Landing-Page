@@ -71,3 +71,4 @@ const HeroChocolates = ({ activeFlavor }) => {
 
     gsap.from('h2', {
       opacity: 0,
+      duration: 0.8,
