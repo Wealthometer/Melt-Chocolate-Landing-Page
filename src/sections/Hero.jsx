@@ -31,3 +31,4 @@ const Hero = () => {
         card: document.querySelector(".almond-card"),
       },
     ];
+
