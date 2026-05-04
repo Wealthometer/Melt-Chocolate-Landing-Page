@@ -60,3 +60,4 @@ const Hero = () => {
           ease: "none",
         },
         0
+      );
