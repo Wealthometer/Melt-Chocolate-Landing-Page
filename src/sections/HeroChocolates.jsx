@@ -77,3 +77,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     
   })
 
+  return (
