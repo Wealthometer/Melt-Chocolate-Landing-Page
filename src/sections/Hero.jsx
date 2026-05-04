@@ -71,3 +71,4 @@ const Hero = () => {
     </section>
   )
 }
+
