@@ -46,3 +46,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
   )
 }
 
+export default FlavorCards
