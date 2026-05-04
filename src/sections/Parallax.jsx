@@ -10,3 +10,4 @@ const Parallax = () => {
           backgroundImage: `url(${Chocolate})`,
         }}
       />
+    </section>
