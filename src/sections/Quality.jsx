@@ -9,3 +9,4 @@ const Quality = () => {
   const sectionRef = useRef(null);
   const cardsRef = useRef([]);
 
+  useGSAP(() => {
