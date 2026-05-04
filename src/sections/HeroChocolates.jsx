@@ -60,3 +60,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     SplitText.create("h1", {
       type: "chars",
       onSplit(self) {
+        gsap.from(self.chars, {
