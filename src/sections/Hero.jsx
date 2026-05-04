@@ -11,3 +11,4 @@ gsap.registerPlugin(ScrollTrigger);
 const Hero = () => {
 
   const [activeFlavor, setActiveFlavor] = useState(null);
+
