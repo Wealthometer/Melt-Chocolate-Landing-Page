@@ -102,3 +102,4 @@ const HeroChocolates = ({ activeFlavor }) => {
   )
 }
 
+export default HeroChocolates
