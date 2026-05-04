@@ -41,3 +41,4 @@ const Hero = () => {
         invalidateOnRefresh: true,
       },
     });
+
