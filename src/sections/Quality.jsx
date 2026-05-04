@@ -48,3 +48,4 @@ const Quality = () => {
             <span className="text-orange">MELT</span>
           </h2>
           <div className="max-w-115 leading-6 font-medium">
+            Every bar is a result of careful sourcing, precise timing, and
