@@ -29,3 +29,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     gsap.from('.cocoa-choco', {
       y: "40%",
       scale: 0.8,
+      duration: 1,
