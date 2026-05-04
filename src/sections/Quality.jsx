@@ -13,3 +13,4 @@ const Quality = () => {
     // set initial state individually
     cardsRef.current.forEach((card, i) => {
       gsap.set(card, {
+        y: "180%",
