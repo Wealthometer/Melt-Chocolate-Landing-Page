@@ -41,3 +41,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
             Nutty comfort, <br />perfectly smooth.
           </p>
         </div>
+      </div>
