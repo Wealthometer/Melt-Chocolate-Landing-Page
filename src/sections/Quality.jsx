@@ -35,3 +35,4 @@ const Quality = () => {
       duration: 2,
       stagger: 1,
       ease: "power2.out",
+    });
