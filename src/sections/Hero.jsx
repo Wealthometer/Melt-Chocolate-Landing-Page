@@ -22,3 +22,4 @@ const Hero = () => {
         choco: document.querySelector(".cocoa-choco"),
         card: document.querySelector(".cocoa-card"),
       },
+      {
