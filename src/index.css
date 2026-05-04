@@ -31,4 +31,5 @@
   .inner-container {
     @apply px-28;
   }
+  img {
     width: 100%;
