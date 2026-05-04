@@ -15,4 +15,5 @@ import { SplitText } from "gsap/SplitText";
 
 gsap.registerPlugin(SplitText);
 
+const HeroChocolates = ({ activeFlavor }) => {
 
