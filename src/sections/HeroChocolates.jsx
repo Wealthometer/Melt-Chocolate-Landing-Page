@@ -70,3 +70,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     });
 
     gsap.from('h2', {
+      opacity: 0,
