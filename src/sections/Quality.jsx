@@ -8,3 +8,4 @@ gsap.registerPlugin(ScrollTrigger);
 const Quality = () => {
   const sectionRef = useRef(null);
   const cardsRef = useRef([]);
+
