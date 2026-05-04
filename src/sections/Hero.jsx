@@ -46,3 +46,5 @@ const Hero = () => {
       tl.to(
         choco,
         {
+          x: () => {
+            const c = choco.getBoundingClientRect();
