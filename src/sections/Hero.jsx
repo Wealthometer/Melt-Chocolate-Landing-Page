@@ -68,3 +68,4 @@ const Hero = () => {
     <section className='choco-section inner-container'>
       <HeroChocolates activeFlavor={activeFlavor} />
       <FlavorCards setActiveFlavor={setActiveFlavor} />
+    </section>
