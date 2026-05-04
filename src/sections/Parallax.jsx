@@ -13,3 +13,4 @@ const Parallax = () => {
     </section>
   );
 };
+
