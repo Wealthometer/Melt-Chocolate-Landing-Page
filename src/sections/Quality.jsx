@@ -43,3 +43,4 @@ const Quality = () => {
       <div className="grid grid-cols-12 gap-20">
         {/* LEFT CONTENT */}
         <div className="col-span-7 h-full flex flex-col justify-between">
+          <h2 className="max-w-175 leading-20">
