@@ -11,3 +11,4 @@ import AlmondOpen from '../assets/images/almond-crunch-1.png'
 
 import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
+import { SplitText } from "gsap/SplitText";
