@@ -51,3 +51,4 @@ const Hero = () => {
             const t = card.getBoundingClientRect();
             return t.left + t.width / 2 - (c.left + c.width / 2);
           },
+          y: () => {
