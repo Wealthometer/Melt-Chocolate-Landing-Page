@@ -22,3 +22,4 @@ const Quality = () => {
       scrollTrigger: {
         trigger: sectionRef.current,
         start: "top top",
+        end: "+=300%",
