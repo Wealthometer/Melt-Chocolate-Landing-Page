@@ -39,3 +39,4 @@ const Quality = () => {
   }, { scope: sectionRef });
 
   return (
+    <section ref={sectionRef} className="inner-container pt-30 pb-40">
