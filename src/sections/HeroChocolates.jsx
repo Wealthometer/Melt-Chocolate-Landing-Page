@@ -80,3 +80,4 @@ const HeroChocolates = ({ activeFlavor }) => {
   return (
     <>
       <div className="text-center text-brown pt-20 pb-24">
+        <h1 className='text-8xl font-bold leading-28'>Four <span className='text-orange'>Flavors.</span></h1>  
