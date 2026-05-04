@@ -50,3 +50,4 @@ const Quality = () => {
           <div className="max-w-115 leading-6 font-medium">
             Every bar is a result of careful sourcing, precise timing, and
             countless taste tests — all to make sure each bite feels intentional.
+          </div>
