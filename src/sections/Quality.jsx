@@ -23,3 +23,4 @@ const Quality = () => {
         trigger: sectionRef.current,
         start: "top top",
         end: "+=300%",
+        scrub: 1,
