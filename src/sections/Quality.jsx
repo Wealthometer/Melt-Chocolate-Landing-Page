@@ -6,3 +6,4 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 const Quality = () => {
+  const sectionRef = useRef(null);
