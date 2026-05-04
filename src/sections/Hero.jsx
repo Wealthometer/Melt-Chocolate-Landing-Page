@@ -52,3 +52,4 @@ const Hero = () => {
             return t.left + t.width / 2 - (c.left + c.width / 2);
           },
           y: () => {
+            const c = choco.getBoundingClientRect();
