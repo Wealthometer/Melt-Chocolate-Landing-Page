@@ -57,3 +57,4 @@ const Quality = () => {
         <div className="col-span-5 relative h-130">
           <div
             ref={(el) => (cardsRef.current[0] = el)}
+            className="card bg-blue text-white rounded-3xl max-w-115 w-full p-10 min-h-112 flex flex-col justify-between ml-auto"
