@@ -76,3 +76,4 @@ const Quality = () => {
             </div>
             <div>Small batches. Big attention to detail.</div>
           </div>
+
