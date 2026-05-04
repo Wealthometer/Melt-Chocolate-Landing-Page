@@ -64,3 +64,4 @@ const HeroChocolates = ({ activeFlavor }) => {
           scale: 1.3,
           opacity: 0,
           stagger: 0.08,
+          ease: "power3.out",
