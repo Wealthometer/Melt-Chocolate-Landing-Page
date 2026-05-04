@@ -16,3 +16,4 @@ const Hero = () => {
     const pairs = [
       {
         choco: document.querySelector(".caremel-choco"),
+        card: document.querySelector(".caramel-card"),
