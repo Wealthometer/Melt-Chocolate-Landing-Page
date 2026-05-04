@@ -64,3 +64,4 @@ const Quality = () => {
               <div className="text-3xl font-semibold">Taste Iterations</div>
             </div>
             <div>Refined until the flavour feels just right.</div>
+          </div>
