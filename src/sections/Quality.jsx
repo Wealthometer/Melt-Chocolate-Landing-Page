@@ -74,3 +74,4 @@ const Quality = () => {
               <div className="text-[7.5vw] font-semibold leading-40">30+</div>
               <div className="text-3xl font-semibold">Test Batches</div>
             </div>
+            <div>Small batches. Big attention to detail.</div>
