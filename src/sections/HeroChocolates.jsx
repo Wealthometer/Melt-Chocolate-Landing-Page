@@ -83,3 +83,5 @@ const HeroChocolates = ({ activeFlavor }) => {
         <h1 className='text-8xl font-bold leading-28'>Four <span className='text-orange'>Flavors.</span></h1>  
         <h2 className='font-medium text-[40px]'>One Perfect Melt.</h2>
       </div>
+      <div className="flex justify-center items-start gap-6">
+        <div>
