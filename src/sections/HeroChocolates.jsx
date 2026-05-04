@@ -33,3 +33,4 @@ const HeroChocolates = ({ activeFlavor }) => {
       ease: "power3.out",
     });
 
+    gsap.from('.orange-choco', {
