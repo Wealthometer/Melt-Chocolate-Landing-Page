@@ -73,5 +73,6 @@ const HeroChocolates = ({ activeFlavor }) => {
       opacity: 0,
       duration: 0.8,
       delay: 0.4,
+    });
     
   })
