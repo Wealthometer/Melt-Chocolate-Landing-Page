@@ -28,3 +28,4 @@ const Quality = () => {
         anticipatePin: 1,
       },
     });
+
