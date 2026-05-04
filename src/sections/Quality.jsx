@@ -17,3 +17,4 @@ const Quality = () => {
         rotate: i % 2 === 0 ? -10 : 10, // alternate rotation
       });
     });
+
