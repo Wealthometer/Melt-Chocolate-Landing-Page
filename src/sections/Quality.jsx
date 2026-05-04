@@ -33,3 +33,4 @@ const Quality = () => {
       y: 0,
       rotate: 0,
       duration: 2,
+      stagger: 1,
