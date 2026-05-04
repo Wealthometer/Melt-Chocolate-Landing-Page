@@ -25,3 +25,4 @@ const Quality = () => {
         end: "+=300%",
         scrub: 1,
         pin: true,
+        anticipatePin: 1,
