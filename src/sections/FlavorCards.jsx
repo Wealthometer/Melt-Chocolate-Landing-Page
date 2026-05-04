@@ -40,3 +40,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
                 transition-all duration-500 ease-out">
             Nutty comfort, <br />perfectly smooth.
           </p>
+        </div>
