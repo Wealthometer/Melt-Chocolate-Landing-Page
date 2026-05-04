@@ -9,3 +9,4 @@ import CocoaOpen from '../assets/images/dark-cocoa-1.png'
 import OrangeOpen from '../assets/images/orange-zest-milk-1.png'
 import AlmondOpen from '../assets/images/almond-crunch-1.png'
 
+import { gsap } from "gsap";
