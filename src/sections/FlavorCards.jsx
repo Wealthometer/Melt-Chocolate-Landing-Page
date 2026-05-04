@@ -26,3 +26,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
         <div className='relative group card orange-card bg-yellow w-full h-[40vh] rounded-xl origin-top     transform transition-transform duration-500 ease-out hover:scale-y-[1.08] flex flex-col items-center justify-end overflow-hidden pb-8' onMouseEnter={() => setActiveFlavor('orange')}
         onMouseLeave={() => setActiveFlavor(null)}>
           <p className="mt-6 text-white text-xl text-center leading-6 opacity-0 
+                translate-y-6 group-hover:opacity-100 
