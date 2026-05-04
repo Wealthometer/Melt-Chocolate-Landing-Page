@@ -7,3 +7,4 @@
 @import "@fontsource/caveat/600.css";
 
 @theme {
+  --font-body: "Inter", sans-serif;
