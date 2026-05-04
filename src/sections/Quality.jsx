@@ -85,3 +85,4 @@ const Quality = () => {
               <div className="text-[7.5vw] font-semibold leading-40">100%</div>
               <div className="text-3xl font-semibold">Natural Ingredients</div>
             </div>
+          </div>
