@@ -8,3 +8,4 @@ const Parallax = () => {
         className="h-full rounded-xl bg-fixed bg-center bg-cover"
         style={{
           backgroundImage: `url(${Chocolate})`,
+        }}
