@@ -51,3 +51,4 @@ const Quality = () => {
             Every bar is a result of careful sourcing, precise timing, and
             countless taste tests — all to make sure each bite feels intentional.
           </div>
+        </div>
