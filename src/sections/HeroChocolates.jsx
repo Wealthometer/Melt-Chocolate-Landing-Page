@@ -21,3 +21,4 @@ const HeroChocolates = ({ activeFlavor }) => {
 
     gsap.from('.caremel-choco', {
       y: "60%",
+      scale: 0.8,
