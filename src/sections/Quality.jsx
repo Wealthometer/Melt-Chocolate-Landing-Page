@@ -46,3 +46,4 @@ const Quality = () => {
           <h2 className="max-w-175 leading-20">
             What goes into every bar of{" "}
             <span className="text-orange">MELT</span>
+          </h2>
