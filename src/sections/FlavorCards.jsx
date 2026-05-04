@@ -42,3 +42,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
           </p>
         </div>
       </div>
+    </>
