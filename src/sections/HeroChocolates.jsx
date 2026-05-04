@@ -51,3 +51,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     gsap.from('.stamp', {
       scale: 2,
       opacity: 0,
+      duration: 0.4,
