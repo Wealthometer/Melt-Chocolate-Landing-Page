@@ -53,3 +53,4 @@ const Hero = () => {
           },
           y: () => {
             const c = choco.getBoundingClientRect();
+            const t = card.getBoundingClientRect();
