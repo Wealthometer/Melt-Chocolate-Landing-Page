@@ -70,3 +70,4 @@ const Hero = () => {
       <FlavorCards setActiveFlavor={setActiveFlavor} />
     </section>
   )
+}
