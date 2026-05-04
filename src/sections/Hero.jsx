@@ -15,3 +15,4 @@ const Hero = () => {
   useGSAP(() => {
     const pairs = [
       {
+        choco: document.querySelector(".caremel-choco"),
