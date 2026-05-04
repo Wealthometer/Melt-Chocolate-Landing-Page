@@ -12,3 +12,4 @@ const Quality = () => {
   useGSAP(() => {
     // set initial state individually
     cardsRef.current.forEach((card, i) => {
+      gsap.set(card, {
