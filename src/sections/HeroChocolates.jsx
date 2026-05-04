@@ -62,3 +62,4 @@ const HeroChocolates = ({ activeFlavor }) => {
       onSplit(self) {
         gsap.from(self.chars, {
           scale: 1.3,
+          opacity: 0,
