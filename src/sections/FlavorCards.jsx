@@ -30,3 +30,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
                 group-hover:translate-y-0
                 transition-all duration-500 ease-out">
             Bright citrus with<br />creamy balance.
+          </p>
