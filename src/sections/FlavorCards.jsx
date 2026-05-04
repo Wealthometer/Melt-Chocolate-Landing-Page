@@ -38,3 +38,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
                 translate-y-6 group-hover:opacity-100 
                 group-hover:translate-y-0
                 transition-all duration-500 ease-out">
+            Nutty comfort, <br />perfectly smooth.
