@@ -38,3 +38,4 @@ const Hero = () => {
         start: "top top",
         end: "74% center",
         scrub: true,
+        invalidateOnRefresh: true,
