@@ -21,3 +21,4 @@ const Quality = () => {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: sectionRef.current,
+        start: "top top",
