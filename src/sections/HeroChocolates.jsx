@@ -63,3 +63,4 @@ const HeroChocolates = ({ activeFlavor }) => {
         gsap.from(self.chars, {
           scale: 1.3,
           opacity: 0,
+          stagger: 0.08,
