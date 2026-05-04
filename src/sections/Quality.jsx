@@ -19,3 +19,4 @@ const Quality = () => {
     });
 
     const tl = gsap.timeline({
+      scrollTrigger: {
