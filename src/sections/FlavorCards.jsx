@@ -31,3 +31,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
                 transition-all duration-500 ease-out">
             Bright citrus with<br />creamy balance.
           </p>
+        </div>
