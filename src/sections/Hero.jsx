@@ -9,3 +9,4 @@ import FlavorCards from './FlavorCards'
 gsap.registerPlugin(ScrollTrigger);
 
 const Hero = () => {
+
