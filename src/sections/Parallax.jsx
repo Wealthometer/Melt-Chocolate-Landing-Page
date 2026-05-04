@@ -9,3 +9,4 @@ const Parallax = () => {
         style={{
           backgroundImage: `url(${Chocolate})`,
         }}
+      />
