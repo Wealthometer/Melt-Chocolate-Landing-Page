@@ -81,3 +81,4 @@ const Quality = () => {
             ref={(el) => (cardsRef.current[2] = el)}
             className="card bg-green text-white rounded-3xl max-w-115 w-full p-10 min-h-112 flex flex-col justify-between absolute top-32 right-0"
           >
+            <div>
