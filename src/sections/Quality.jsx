@@ -42,3 +42,4 @@ const Quality = () => {
     <section ref={sectionRef} className="inner-container pt-30 pb-40">
       <div className="grid grid-cols-12 gap-20">
         {/* LEFT CONTENT */}
+        <div className="col-span-7 h-full flex flex-col justify-between">
