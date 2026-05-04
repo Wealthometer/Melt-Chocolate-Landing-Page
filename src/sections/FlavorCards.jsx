@@ -22,3 +22,4 @@ const FlavorCards = ({ setActiveFlavor }) => {
                 transition-all duration-500 ease-out">
             Bold cocoa with a<br />deep finish.
           </p>
+        </div>
