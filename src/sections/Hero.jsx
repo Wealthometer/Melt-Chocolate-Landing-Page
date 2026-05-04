@@ -67,3 +67,4 @@ const Hero = () => {
   return (
     <section className='choco-section inner-container'>
       <HeroChocolates activeFlavor={activeFlavor} />
+      <FlavorCards setActiveFlavor={setActiveFlavor} />
