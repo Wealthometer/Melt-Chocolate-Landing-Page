@@ -52,3 +52,4 @@ const HeroChocolates = ({ activeFlavor }) => {
       scale: 2,
       opacity: 0,
       duration: 0.4,
+      delay: 1,
