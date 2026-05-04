@@ -78,3 +78,4 @@ const Quality = () => {
           </div>
 
           <div
+            ref={(el) => (cardsRef.current[2] = el)}
