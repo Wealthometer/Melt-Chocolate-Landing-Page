@@ -79,3 +79,4 @@ const HeroChocolates = ({ activeFlavor }) => {
 
   return (
     <>
+      <div className="text-center text-brown pt-20 pb-24">
