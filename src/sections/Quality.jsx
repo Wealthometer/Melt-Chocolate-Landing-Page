@@ -27,3 +27,4 @@ const Quality = () => {
         pin: true,
         anticipatePin: 1,
       },
+    });
