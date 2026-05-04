@@ -52,3 +52,4 @@ const Quality = () => {
             countless taste tests — all to make sure each bite feels intentional.
           </div>
         </div>
+
