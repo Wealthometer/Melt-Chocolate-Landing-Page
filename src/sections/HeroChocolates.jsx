@@ -56,3 +56,4 @@ const HeroChocolates = ({ activeFlavor }) => {
       ease: "power3.out",
     });
 
+    // Heading
