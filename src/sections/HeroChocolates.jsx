@@ -81,3 +81,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     <>
       <div className="text-center text-brown pt-20 pb-24">
         <h1 className='text-8xl font-bold leading-28'>Four <span className='text-orange'>Flavors.</span></h1>  
+        <h2 className='font-medium text-[40px]'>One Perfect Melt.</h2>
