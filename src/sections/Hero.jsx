@@ -19,3 +19,4 @@ const Hero = () => {
         card: document.querySelector(".caramel-card"),
       },
       {
+        choco: document.querySelector(".cocoa-choco"),
