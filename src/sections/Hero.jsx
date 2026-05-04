@@ -35,3 +35,4 @@ const Hero = () => {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: ".choco-section",
+        end: "74% center",
