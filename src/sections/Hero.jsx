@@ -64,3 +64,4 @@ const Hero = () => {
     });
   });
 
+  return (
