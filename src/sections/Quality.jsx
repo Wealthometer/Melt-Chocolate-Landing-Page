@@ -24,3 +24,4 @@ const Quality = () => {
         start: "top top",
         end: "+=300%",
         scrub: 1,
+        pin: true,
