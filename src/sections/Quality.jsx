@@ -38,3 +38,4 @@ const Quality = () => {
     });
   }, { scope: sectionRef });
 
+  return (
