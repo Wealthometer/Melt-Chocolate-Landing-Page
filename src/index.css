@@ -29,3 +29,4 @@
 
 @layer components {
   .inner-container {
+    @apply px-28;
