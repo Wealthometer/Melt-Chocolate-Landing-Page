@@ -36,3 +36,4 @@ const Quality = () => {
       stagger: 1,
       ease: "power2.out",
     });
+  }, { scope: sectionRef });
