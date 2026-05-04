@@ -31,3 +31,4 @@ const Quality = () => {
 
     tl.to(cardsRef.current, {
       y: 0,
+      rotate: 0,
