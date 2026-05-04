@@ -16,3 +16,4 @@ const Quality = () => {
         y: "180%",
         rotate: i % 2 === 0 ? -10 : 10, // alternate rotation
       });
+    });
