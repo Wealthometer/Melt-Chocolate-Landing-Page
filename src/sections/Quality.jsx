@@ -45,3 +45,4 @@ const Quality = () => {
         <div className="col-span-7 h-full flex flex-col justify-between">
           <h2 className="max-w-175 leading-20">
             What goes into every bar of{" "}
+            <span className="text-orange">MELT</span>
