@@ -54,3 +54,4 @@ const Hero = () => {
           y: () => {
             const c = choco.getBoundingClientRect();
             const t = card.getBoundingClientRect();
+            return t.top + t.height / 2 - (c.top + c.height * 0.68);
