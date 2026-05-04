@@ -57,3 +57,4 @@ const Hero = () => {
             return t.top + t.height / 2 - (c.top + c.height * 0.68);
           },
           scale: 0.6,
+          ease: "none",
