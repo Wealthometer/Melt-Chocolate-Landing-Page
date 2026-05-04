@@ -88,3 +88,4 @@ const HeroChocolates = ({ activeFlavor }) => {
           <img src={activeFlavor === 'caramel' ? CaramelOpen : Caramel} alt="Caramel" className='relative z-10 caremel-choco max-w-72.5 mt-18 drop-shadow-[0_10px_40px_rgba(255,107,87,0.5)]' />
         </div>
         <div>
+          <img src={activeFlavor === 'cocoa' ? CocoaOpen : Cocoa} alt="Cocoa" className='relative z-10 cocoa-choco max-w-72.5 drop-shadow-[0_10px_40px_rgba(72,156,211,0.5)]' />
