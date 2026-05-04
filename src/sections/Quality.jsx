@@ -37,3 +37,4 @@ const Quality = () => {
       ease: "power2.out",
     });
   }, { scope: sectionRef });
+
