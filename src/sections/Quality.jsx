@@ -26,3 +26,4 @@ const Quality = () => {
         scrub: 1,
         pin: true,
         anticipatePin: 1,
+      },
