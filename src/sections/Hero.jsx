@@ -42,3 +42,4 @@ const Hero = () => {
       },
     });
 
+    pairs.forEach(({ choco, card }) => {
