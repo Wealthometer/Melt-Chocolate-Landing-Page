@@ -75,3 +75,4 @@ const Quality = () => {
               <div className="text-3xl font-semibold">Test Batches</div>
             </div>
             <div>Small batches. Big attention to detail.</div>
+          </div>
