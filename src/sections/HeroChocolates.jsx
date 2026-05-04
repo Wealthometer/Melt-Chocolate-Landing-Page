@@ -48,3 +48,4 @@ const HeroChocolates = ({ activeFlavor }) => {
     });
 
     // Stamp
+    gsap.from('.stamp', {
