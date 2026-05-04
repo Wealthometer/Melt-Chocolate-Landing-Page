@@ -20,3 +20,4 @@
 
 @layer base {
   body {
+    @apply bg-beige text-black font-body text-lg overflow-x-clip;
